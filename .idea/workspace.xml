@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="434c2f3c-bd22-4345-b5f0-c541f66fb0f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/chain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/define.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/roles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/service/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/transaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Github\BlockChain\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W2uN3I7OQDrVOIWAAFa5LIj53O" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="BlockChain" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="BlockChain" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="434c2f3c-bd22-4345-b5f0-c541f66fb0f8" name="Default Changelist" comment="" />
+      <created>1578359966631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578359966631</updated>
+      <workItem from="1578359968941" duration="6882000" />
+      <workItem from="1578411668293" duration="2822000" />
+      <workItem from="1578414536742" duration="1003000" />
+      <workItem from="1579063541040" duration="65000" />
+      <workItem from="1579063623444" duration="52000" />
+      <workItem from="1579063689523" duration="2674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="423" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579063544267">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="328" y="423" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1579063544267" />
+    <state x="1009" y="403" key="FileChooserDialogImpl" timestamp="1578360349530">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1009" y="403" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1578360349530" />
+    <state x="702" y="263" key="SettingsEditor" timestamp="1578414594084">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="702" y="263" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1578414594084" />
+    <state x="978" y="517" key="cloudConfig.SelfSettingsDialog" timestamp="1579064149430">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="978" y="517" key="cloudConfig.SelfSettingsDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1579064149430" />
+  </component>
+</project>
